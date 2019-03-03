@@ -1,6 +1,6 @@
 # simple-banking-system
 
-Practice for software engineering
+A good practice for software engineering
 
 Environment: Java 10, Java(TM) SE Runtime Environment 18.3 (build 10+46)
 
